@@ -1,5 +1,6 @@
 package main
 
+//текст
 import (
 	"fmt"
 )
